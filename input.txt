@@ -1,0 +1,3 @@
+Hello, this is a sample text file.
+It contains several lines of text.
+The purpose of this file is to be read and modified by a Node.js script.
